@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(89deg, #FF9866, #FF5F62);
+}
+
+.circle{
+    position: absolute;
+    background-color: #ffffff;
+    width: 220px;
+    height: 220px;
+    clip-path: circle(50% at center);
+}
+.profile-photo {
+    width: 200px;
+    clip-path: circle(50% at center);
+}
