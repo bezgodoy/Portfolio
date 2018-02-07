@@ -57,11 +57,18 @@ footer span {
     margin-left: 5px;
 }
 
+footer .ml-auto span {
+    font-size: 0.7rem;
+    font-weight: 200;
+    margin-right: 10px;
+}
+
 footer a .social-logo {
     width: 20px;
     margin-left: 20px;
 }
 
-footer .arrow {
+footer div a .arrow {
     font-size: 3rem;
+    color: #ffffff;
 }
