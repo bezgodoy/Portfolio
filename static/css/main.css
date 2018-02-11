@@ -3,10 +3,8 @@ html, body {
 }
 
 body {
-    background: linear-gradient(89deg, #FF9866, #FF5F62);
     font-family: 'Encode Sans Expanded', sans-serif;
     font-size: 14px;
-    padding: 50px 50px;
 }
 
 h1 {
@@ -71,4 +69,38 @@ footer a .social-logo {
 footer div a .arrow {
     font-size: 3rem;
     color: #ffffff;
+}
+
+.section-one {
+    background: linear-gradient(89deg, #FF9866, #FF5F62);
+    padding: 50px 50px;
+}
+
+.section-two {
+    background: linear-gradient(89deg, #FF9866, #FF5F62);
+}
+
+.col-left {
+    padding: 50px 50px;
+}
+
+.col-right {
+    background-color: #ffffff;
+    padding: 50px 50px;
+}
+
+.text-section {
+    text-align: right;
+}
+
+.text-section h1  {
+    color: #272727;
+    font-weight: 200;
+    font-size: 2rem;
+}
+
+.text-section h3  {
+    color: #cccccc;
+    font-weight: 200;
+    font-size: 0.75rem;
 }
