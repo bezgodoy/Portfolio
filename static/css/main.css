@@ -26,7 +26,7 @@ h1 {
 
 
 .profile-photo {
-    margin-left: 5%;
+    margin-left: 10%;
     z-index: 100;
     left: 0;
     text-align: center;
@@ -40,7 +40,7 @@ h1 {
 }
 
 footer {
-    height: 40px;
+    height: 15px;
     opacity: 0.5;
     color: #ffffff;
 }
@@ -80,6 +80,10 @@ footer div a .arrow {
     background: linear-gradient(89deg, #FF9866, #FF5F62);
 }
 
+.section-three {
+    background: linear-gradient(89deg, #FF9866, #FF5F62);
+}
+
 .col-left {
     padding: 50px 50px;
 }
@@ -87,6 +91,7 @@ footer div a .arrow {
 .col-right {
     background-color: #ffffff;
     padding: 50px 50px;
+    border-radius: 100px 0 0 0;
 }
 
 .text-section {
