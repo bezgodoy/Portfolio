@@ -78,6 +78,34 @@ footer div a .arrow {
     padding: 50px 50px;
 }
 
+.section-one-left {
+    width: 50%;
+    background: linear-gradient(89deg, #FF9866, #FF7B64);
+    float: left;
+    overflow: auto;
+}
+
+.section-one-right {
+    width: 50%;
+    background: linear-gradient(89deg, #FF7B64, #FF5F62);
+    float: right;
+    overflow: auto;
+}
+
+.section-two-left {
+    width: 50%;
+    background: linear-gradient(89deg, #FF9866, #FF7B64);
+    float: left;
+    overflow: auto;
+}
+
+.section-two-right {
+    width: 50%;
+    background: linear-gradient(89deg, #FF7B64, #FF5F62);
+    float: right;
+    overflow: auto;
+}
+
 .section-two {
     background: linear-gradient(89deg, #FF9866, #FF5F62);
 }
@@ -86,14 +114,14 @@ footer div a .arrow {
     background: linear-gradient(89deg, #FF9866, #FF5F62);
 }
 
-.col-left {
+/* .col-left {
     background-color: #ffffff;
     padding: 50px 50px;
 }
 
 .col-right {
     padding: 50px 50px;
-}
+} */
 
 .text-section {
     text-align: right;
